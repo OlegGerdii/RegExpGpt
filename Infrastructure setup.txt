@@ -1,0 +1,4 @@
+I did the infrastacture setup without AI.
+Time is about half an hour - I had to create a new GitHub account, add Ssh keys.
+I had trouble with pushing into it the first commit, as I have other GitHub account on my PC for my
+main occupation purposes. I added it as a collaborator to the new repository.
